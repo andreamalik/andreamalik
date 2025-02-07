@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi ✌🏼, I'm Andrea!</h1>
+</div>
 
-<!--
-**andreamalik/andreamalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Engineer**, a **self-taught Junior Front End Web Developer**, and a **wanna-be Full Stack Web Developer**. I love turning ideas into reality through code and creativity.
 
-Here are some ideas to get you started:
+👩🏻‍💻Senior Associate, Web Services at ULI ♻️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **About me 🇨🇴🇺🇸**
+
+- 🔭 I’m currently working on THE Odin Project (~60% done)👩🏻‍💻
+- 🌱 I’m currently learning CSS Responsive Web Design 🎨
+- 💬 Ask me about moving into the US and starting from nothing!
+- 📫 How to reach me: andreamalik694@gmail.com
+- 😄 Pronouns: she/her 💅🏻
+- ⚡ Fun fact: I learned English 🇺🇸 by watching the show Friends!
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+
