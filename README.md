@@ -11,7 +11,7 @@ I'm an **Engineer**, a **self-taught Junior Front End Web Developer**, and a **w
 - 🔭 I’m actively working on THE Odin Project (~60% done)👩🏻‍💻
 - 🌱 I’m currently learning CSS Responsive Web Design 🎨
 - 💬 Ask me about moving to the US and starting from nothing!
-- 📫 How to reach me: andreamalik694@gmail.com
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Let's-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andreamalik/)
 - 😄 Pronouns: she/her 💅🏻
 - ⚡ Fun fact: I learned English 🇺🇸 by watching the show Friends!
 
